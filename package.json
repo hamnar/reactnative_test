@@ -1,0 +1,19 @@
+{
+  "name": "mynavigation_test",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "react": "16.9.0",
+    "react-native": "0.60.4",
+    "react-native-elements": "^1.0.0-beta8",
+    "react-navigation": "2.0.1",
+    "react-navigation-drawer": "2.2.2",
+    "react-navigation-stack": "1.9.4",
+    "react-navigation-tabs": "2.5.6"
+  }
+}
